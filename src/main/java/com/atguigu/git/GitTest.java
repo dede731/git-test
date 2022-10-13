@@ -1,0 +1,13 @@
+package com.atguigu.git;
+
+/**
+ * 类名称
+ * Created by WYL on 2022/10/13 17:46
+ *
+ * @module XX系统
+ */
+public class GitTest {
+    public static void main(String[] args) {
+        System.out.println("HELLO GIT!");
+    }
+}
